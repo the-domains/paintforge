@@ -1,0 +1,28 @@
+name: PAINTFORGE
+favicon: null
+layout_spectrum: 0.14325819024816155
+typography_spectrum: 0.8831842539366335
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7515701486263424
+  lightness: 0.8048080406151712
+  saturation: 0.6481988085433841
+  rhythmicContrast: 0.14768607798032463
+purpose: []
